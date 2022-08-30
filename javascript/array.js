@@ -45,3 +45,6 @@ function soma (array) {
     console.log[minSum, maxSum]
 }
 soma([5, 10, 22 ,7 ,5])
+
+
+// comentario 
