@@ -1,0 +1,1 @@
+Challenge made from the course "https://www.linkedin.com/learning/learning-java-4" . Code to calculate annual salary of an employee with unpaid vacation.
