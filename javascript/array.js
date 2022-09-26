@@ -42,7 +42,6 @@ function soma (array) {
 
     return [minSum, maxSum];
 
-    console.log[minSum, maxSum]
 }
 soma([5, 10, 22 ,7 ,5])
 
