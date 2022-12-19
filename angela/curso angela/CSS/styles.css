@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+
+h1{
+    margin-top: 0;
+}
+
+.top-container{
+    background-color: bisque;
+    
+
+
+}
+
+.middle-container{
+    width: 200px;
+    height: 200px;
+    background-color: blanchedalmond;
+    border: solid 20px;
+    margin-left: 260px;
+}
+.botton-container{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border:solid 10px;
+    margin-left: 500px;
+}
