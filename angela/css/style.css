@@ -1,8 +1,26 @@
 body{
-    color: rgb(58, 167, 201);
-    background-color: azure;
+   
+    background-color: rgb(182, 226, 226);
 }
 h1{
-    color: blue;
+    color: rgb(207, 96, 235);
 
+}
+
+a{
+    color: blueviolet;
+}
+
+hr{
+    border-style: none;
+    border-top-style:dotted ;
+    width: 5%;
+    border-width: 8px;
+    border-color:rgb(207, 96, 235);
+}
+
+img{
+    width: 200px;
+    border-radius: 100%
+    
 }
