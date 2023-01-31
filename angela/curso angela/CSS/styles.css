@@ -74,9 +74,11 @@ hr {
     width: 25%;
     border-radius: 100%;
     float: left;
-    padding-right: 10px;
+    padding-right: 30px;
 }
 .skill-image{
     width: 25%;
+    float: left;
+    padding-right: 30px;
   
 }
